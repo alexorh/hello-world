@@ -1,1 +1,2 @@
 New training file
+Hello, World!
